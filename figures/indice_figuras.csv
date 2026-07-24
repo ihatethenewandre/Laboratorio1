@@ -1,0 +1,35 @@
+Figura,Descripción,Archivo
+1,Total mensual de viajeros,Figura1.png
+2,Total anual de viajeros,Figura2.png
+3,Perfil estacional mensual,Figura3.png
+4,"Rankings de países, región, vía y fronteras",Figura4.png
+5,Panel de las siete series con corte de entrenamiento y prueba,Figura5.png
+6,Descomposición de Total,Figura6.png
+7,Descomposición de Via_Aérea,Figura7.png
+8,Descomposición de Via_Terrestre,Figura8.png
+9,Descomposición de Via_Marítima,Figura9.png
+10,Descomposición de Reg_América Del Centro,Figura10.png
+11,Descomposición de Reg_América Del Norte,Figura11.png
+12,Descomposición de Reg_Europa,Figura12.png
+13,ACF y PACF de Total,Figura13.png
+14,ACF y PACF de Via_Aérea,Figura14.png
+15,ACF y PACF de Via_Terrestre,Figura15.png
+16,ACF y PACF de Via_Marítima,Figura16.png
+17,ACF y PACF de Reg_América Del Centro,Figura17.png
+18,ACF y PACF de Reg_América Del Norte,Figura18.png
+19,ACF y PACF de Reg_Europa,Figura19.png
+20,Diagnóstico de residuos de Total,Figura20.png
+21,Diagnóstico de residuos de Via_Aérea,Figura21.png
+22,Diagnóstico de residuos de Via_Terrestre,Figura22.png
+23,Diagnóstico de residuos de Via_Marítima,Figura23.png
+24,Diagnóstico de residuos de Reg_América Del Centro,Figura24.png
+25,Diagnóstico de residuos de Reg_América Del Norte,Figura25.png
+26,Diagnóstico de residuos de Reg_Europa,Figura26.png
+27,Pronóstico del mejor modelo de Total,Figura27.png
+28,Pronóstico del mejor modelo de Via_Aérea,Figura28.png
+29,Pronóstico del mejor modelo de Via_Terrestre,Figura29.png
+30,Pronóstico del mejor modelo de Via_Marítima,Figura30.png
+31,Pronóstico del mejor modelo de Reg_América Del Centro,Figura31.png
+32,Pronóstico del mejor modelo de Reg_América Del Norte,Figura32.png
+33,Pronóstico del mejor modelo de Reg_Europa,Figura33.png
+34,Comparación de indicadores por serie,Figura34.png
